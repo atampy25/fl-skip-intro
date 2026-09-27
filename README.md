@@ -3,4 +3,4 @@ Skips the intro video of 007 First Light.
 
 ---
 
-`Atampy26.FLSkipIntro` v1.0.0, by Atampy26. This README was automatically generated from the mod's manifest.
+`Atampy26.FLSkipIntro` v1.0.1, by Atampy26. This README was automatically generated from the mod's manifest.
