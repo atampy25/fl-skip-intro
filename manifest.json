@@ -1,12 +1,14 @@
 {
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"id": "Atampy26.FLSkipIntro",
 	"name": "First Light Skip Intro",
 	"description": "Skips the intro video of 007 First Light.",
 	"authors": ["Atampy26"],
 	"frameworkVersion": "3.0.0-beta.5",
 	"url": "https://github.com/atampy25/fl-skip-intro",
-	"conditions": { "supportedGames": ["fl"] },
+	"conditions": {
+		"supportedGames": ["fl"]
+	},
 	"data": {
 		"contentFolders": ["content"]
 	}
