@@ -8,6 +8,6 @@
 	"url": "https://github.com/atampy25/fl-skip-intro",
 	"data": {
 		"contentFolders": ["content"],
-		"supportedPlatforms": ["fl"]
+		"supportedGames": ["fl"]
 	}
 }
