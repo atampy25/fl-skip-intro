@@ -6,8 +6,8 @@
 	"authors": ["Atampy26"],
 	"frameworkVersion": "3.0.0-beta.5",
 	"url": "https://github.com/atampy25/fl-skip-intro",
+	"conditions": { "supportedGames": ["fl"] },
 	"data": {
-		"contentFolders": ["content"],
-		"supportedGames": ["fl"]
+		"contentFolders": ["content"]
 	}
 }
