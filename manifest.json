@@ -1,12 +1,13 @@
 {
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "Atampy26.FLSkipIntro",
+	"name": "First Light Skip Intro",
+	"description": "Skips the intro video of 007 First Light.",
+	"authors": ["Atampy26"],
 	"frameworkVersion": "3.0.0-beta.4",
 	"url": null,
 	"data": {
-		"supportedPlatforms": ["h3"]
+		"contentFolders": ["content"],
+		"supportedPlatforms": ["fl"]
 	}
 }

@@ -1,0 +1,27 @@
+{
+	"factory": "[assembly:/_knt/scenes/game.entity].entitytemplate",
+	"blueprint": "[assembly:/_knt/scenes/game.entity].entityblueprint",
+	"patch": [
+		{
+			"PatchEntity": [
+				"28001a2172309cfb",
+				{
+					"PatchPropertyValue": [
+						"m_startupCheckpoint",
+						{
+							"Set": {
+								"type": "SEntityTemplateReference",
+								"value": {
+									"ref": "c3215683b280232e",
+									"externalScene": "[assembly:/_knt/scenes/globalbricks/global_streaming.brick].entitytype"
+								}
+							}
+						},
+						true
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 7
+}
